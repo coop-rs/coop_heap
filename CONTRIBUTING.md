@@ -1,15 +1,13 @@
 ## License
 
-Licensed under:
+Licensing is the same as that of [Rust](https://github.com/rust-lang/rust/blob/master/README.md#license).
 
-- the Apache License, Version 2.0, with the LLVM Exception
-   (<LICENSE-Apache-2.0_WITH_LLVM-exception> or
-   <http://llvm.org/foundation/relicensing/LICENSE.txt>), or
-- Apache License, Version 2.0, (<LICENSE-APACHE> or
-   <http://www.apache.org/licenses/LICENSE-2.0>), or
-- MIT license (<LICENSE-MIT> or <http://opensource.org/licenses/MIT>)
+This is primarily distributed under the terms of both the MIT license
+and the Apache License (Version 2.0), with portions covered by various
+BSD-like licenses.
 
-at your option.
+See [LICENSE-APACHE](LICENSE-APACHE), [LICENSE-MIT](LICENSE-MIT), and
+[COPYRIGHT](COPYRIGHT) for details.
 
 ### Contribution
 

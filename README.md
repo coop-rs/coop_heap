@@ -1,6 +1,8 @@
 Reserved crate name. Heap cooperation for **safe** applications & libraries in Rust (initially
 optimized only on Linux, but available for any target).
 
+See <https://github.com/coop-rs/co_heap> instead.
+
 `coop_heap` may become a set of (`std/no_std`) targets that make heap types co-operate with the
 allocator.
 
